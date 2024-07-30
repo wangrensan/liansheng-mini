@@ -1,0 +1,15 @@
+{
+  "hash": "fb9db2c0",
+  "configHash": "307ef54e",
+  "lockfileHash": "70852738",
+  "browserHash": "da290870",
+  "optimized": {
+    "pitchfinder": {
+      "src": "../../../../../node_modules/pitchfinder/lib/index.js",
+      "file": "pitchfinder.js",
+      "fileHash": "f77adf84",
+      "needsInterop": true
+    }
+  },
+  "chunks": {}
+}

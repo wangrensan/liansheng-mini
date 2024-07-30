@@ -1,0 +1,1 @@
+<view class="container"><button bindtap="{{a}}">开始录音</button><button bindtap="{{b}}">停止录音</button> {{c}} <view wx:if="{{d}}"><text wx:for="{{e}}" wx:for-item="pitch" wx:key="b">音高: {{pitch.a}} Hz</text></view></view>
